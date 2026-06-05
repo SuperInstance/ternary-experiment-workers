@@ -1,0 +1,3 @@
+# Root-level placeholder.
+# Each worker has its own wrangler.toml in its directory.
+# Deploy individually from each subdirectory, or use a CI pipeline.

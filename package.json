@@ -1,0 +1,11 @@
+{
+  "name": "ternary-experiment-workers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Workers for ternary experiments on the edge",
+  "workspaces": [
+    "arena-evolver",
+    "seed-stability",
+    "trust-dynamics"
+  ]
+}
